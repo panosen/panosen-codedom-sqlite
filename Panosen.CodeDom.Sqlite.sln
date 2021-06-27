@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.CodeDom.Sqlite", "Panosen.CodeDom.Sqlite\Panosen.CodeDom.Sqlite.csproj", "{7EAECF39-FBA4-4F03-A919-B4F85B70AE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panosen.CodeDom.Sqlite.Engine", "Panosen.CodeDom.Sqlite.Engine\Panosen.CodeDom.Sqlite.Engine.csproj", "{5A51D4A1-6779-4990-B1D1-D785085559FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAECF39-FBA4-4F03-A919-B4F85B70AE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAECF39-FBA4-4F03-A919-B4F85B70AE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAECF39-FBA4-4F03-A919-B4F85B70AE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAECF39-FBA4-4F03-A919-B4F85B70AE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A51D4A1-6779-4990-B1D1-D785085559FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A51D4A1-6779-4990-B1D1-D785085559FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A51D4A1-6779-4990-B1D1-D785085559FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A51D4A1-6779-4990-B1D1-D785085559FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7A6DFB-DAE0-4C59-A28D-516F8026E1A3}
+	EndGlobalSection
+EndGlobal
